@@ -2,6 +2,7 @@
 
 export(mybin)
 export(myfirstfun)
+export(myncurve)
 export(myplot)
 export(myread)
 export(scatterhist)
