@@ -7,7 +7,7 @@
 #' @param cx an expansion factor
 #' @param ...
 #'
-#' @return a histogram of the random sample
+#' @return a histogram of the sample and a list of simulation statistics
 #' @export
 #'
 #' @examples

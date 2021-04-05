@@ -20,7 +20,7 @@ myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 \item{...}{}
 }
 \value{
-a histogram of the random sample
+a histogram of the sample and a list of simulation statistics
 }
 \description{
 A bootstrapping function to take random samples and make histograms
